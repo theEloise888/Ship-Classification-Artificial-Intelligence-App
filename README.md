@@ -1,7 +1,30 @@
 # Ship-Classification-Artificial-Intelligence-App
-Allows the user to classify ships into 26 categories.
+**Overview**
 
-How to run the app : 
-1) Object Detection – Please enter ‘ships’ into a search engine such as Google and then point the camera at a ship. 
-It will display a list of similar categories of that ship object. The most accurate representation will display first. 
-2) Barcode Detection – Please scan an object with a barcode to get the barcode to display on the screen.
+I used the [Firebase MLKit Material Android](https://reposhub.com/android/app/firebase-mlkit-material-android.html)  as a template for this project. 
+
+
+**Steps to run the app**
+
+Clone this repo locally
+
+* git clone https://github.com/theEloise888/Ship-Classification-Artificial-Intelligence-App.git.
+
+* Create a new Firebase project in the Firebase console.
+
+* Give the package name the same name as your project such as: package com.google.mlkit.md.objectdetection.
+
+* Download the google-services.json config file and add it to your project's app folder.
+
+* Build the gradle and run it on an Android device.
+
+
+**Usages**
+
+Object detection
+* Detects image objects on the screen.
+
+
+
+**License**
+© Google, 2019. Licensed under an Apache-2 license.
