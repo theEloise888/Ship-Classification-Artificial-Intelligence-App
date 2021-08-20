@@ -2,6 +2,7 @@
 **Overview**
 
 I used the [Firebase MLKit Material Android](https://reposhub.com/android/app/firebase-mlkit-material-android.html)  as a template for this project. 
+* Allows the user to classify ships into 26 categories.
 
 
 **Steps to run the app**
